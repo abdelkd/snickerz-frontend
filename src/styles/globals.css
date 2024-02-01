@@ -56,7 +56,7 @@ body {
 }
 
 .heading-image, .full-page-section {
-  height: calc(100dvh - 52px);
+  height: calc(100vh - 52px);
 }
 
 .libre-franklin {
